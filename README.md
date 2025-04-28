@@ -25,4 +25,9 @@ You can view or download the project documentation [here](./assets/Ai_Ass_Samuel
 ## AI Tree Visualization
 Below is an image representing the AI tree built using the Jupyter Notebook:
 
-![AI Tree](./assets/photo_2025-04-28_22-01-52.jpg)
+![AI Tree](./assets/qua1.1.jpg)
+![AI Tree](./assets/qua1.2.jpg)
+![AI Tree](./assets/qua2.2.jpg)
+![AI Tree](./assets/qua2.3.jpg)
+![AI Tree](./assets/qua3.jpg)
+![AI Tree](./assets/qua4.jpg)
