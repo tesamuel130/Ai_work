@@ -1,8 +1,8 @@
 # Ai_work
-this project is mainly focus on ai
+This project is mainly focused on AI.
 
 ## Project Overview
-This project is part of an AI assignment at Addis Ababa University (AAU). It focuses on exploring and implementing artificial intelligence concepts and techniques.
+This project is part of an AI assignment at Addis Ababa University (AAU). It explores and implements artificial intelligence concepts and techniques.
 
 ## Author
 - **Name**: Samuel Tesfaye  
@@ -19,3 +19,10 @@ This project delves into various AI methodologies, including machine learning, n
 
 ## Reference Image
 ![AI Illustration](https://via.placeholder.com/600x300.png?text=AI+Project+Illustration)
+
+## Documentation
+You can view or download the project documentation [here](./assets/Ai_Ass_Samuel.pdf).
+## AI Tree Visualization
+Below is an image representing the AI tree built using the Jupyter Notebook:
+
+![AI Tree](./assets/photo_2025-04-28_22-01-52.jpg)
