@@ -17,11 +17,8 @@ This project is licensed under the MIT License.
 ## Description
 This project delves into various AI methodologies, including machine learning, natural language processing, and computer vision. It aims to provide practical implementations and insights into these areas.
 
-## Reference Image
-![AI Illustration](https://via.placeholder.com/600x300.png?text=AI+Project+Illustration)
-
 ## Documentation
-You can view or download the project documentation [here](./assets/Ai_Ass_Samuel.pdf).
+You can view or download the project documentation [click me](./assets/Ai_Ass_Samuel.pdf).
 ## AI Tree Visualization
 Below is an image representing the AI tree built using the Jupyter Notebook:
 
